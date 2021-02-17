@@ -3,7 +3,7 @@ Currently working on it.
 **Implementation Of Yolo v3 paper**
 
 Darknet -53
-
+"https://user-images.githubusercontent.com/35001605/53487913-2df2b480-3ad0-11e9-9788-b2feab624786.png"
 
 
 **Refernce**
