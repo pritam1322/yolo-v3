@@ -5,7 +5,8 @@ Currently working on it.
 
 
 Darknet -53
-"https://user-images.githubusercontent.com/35001605/53487913-2df2b480-3ad0-11e9-9788-b2feab624786.png"
+![53487913-2df2b480-3ad0-11e9-9788-b2feab624786.png](https://user-images.githubusercontent.com/35001605/53487913-2df2b480-3ad0-11e9-9788-b2feab624786.png)
+"
 
 
 **Refernce**
